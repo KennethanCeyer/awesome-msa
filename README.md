@@ -144,12 +144,12 @@
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_5)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451/ref=sr_1_7)
-- [Microservices Patterns: With examples in Java]([https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451/ref=sr_1_7](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543/ref=sr_1_9)
+- [Microservices Patterns: With examples in Java](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543/ref=sr_1_9)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848/ref=sr_1_11)
 - [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531/ref=sr_1_17)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/ref=sr_1_19)
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894/ref=sr_1_18)
-- [Kubernetes in Action]([https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894/ref=sr_1_18](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725/ref=sr_1_20)
+- [Kubernetes in Action](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725/ref=sr_1_20)
 
 ### Blog Posts
 
