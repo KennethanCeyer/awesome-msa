@@ -1,6 +1,9 @@
 <h1 align="center">Awesome MSA</h1>
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome series for Microservice Architecture(MSA)</p>
+<p align="center">
+   <img width="740" src="./cover.png" alt="Awesome MSA - Awesome list of MSA" />
+</p>
 
 ## Contents
 
