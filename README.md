@@ -27,7 +27,9 @@
    - [Research Papers](#research-papers)
    - [Blog Posts](#blog-posts)
 - [Community](#community)
+   - [Sites](#sites)
    - [Conferences](#conferences)
+   - [Speech](#speech)
 
 ## Cloud Native Computing Foundation (CNCF)
 
@@ -172,3 +174,8 @@
 
 - [MICROSERVICES WORLD](https://microservicesworld.co/)
 - [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [DevOps Conference](https://devopscon.io/)
+
+### Speech
+
+- [Majestic Modular Monoliths](https://www.youtube.com/watch?v=Iz23skp-apM&list=PLcCcZh4f8l1OteFvNXSrTiJl2HxYPYuYa)
