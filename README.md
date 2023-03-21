@@ -179,3 +179,4 @@
 ### Speech
 
 - [Majestic Modular Monoliths](https://www.youtube.com/watch?v=Iz23skp-apM&list=PLcCcZh4f8l1OteFvNXSrTiJl2HxYPYuYa)
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
