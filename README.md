@@ -163,6 +163,7 @@
 - [Netflix - Building Netflix’s Distributed Tracing Infrastructure](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 - [Airbnb - Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344)
 - [CNCF - The magic trick of CQRS: decoupling of microservice data](https://www.cncf.io/blog/2020/08/13/49940/)
+- [GitLab - Advantages of microservices architecture](https://about.gitlab.com/blog/2022/09/29/what-are-the-benefits-of-a-microservices-architecture/)
 
 ## Community
 
